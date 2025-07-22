@@ -9,7 +9,7 @@ chooseFromTemperatureCorF.c     or     chooseFromTemperatureCorF_01.c
 is
 choose_from_c_or_f.c 
 is 
-choose_from_c_or_f_01.c     or choose_from_cel_or_fel_01.c  
+choose_from_c_or_f_01.c     or choose_from_cel_or_feh_01.c  
 
 write a c program , where the program will asked if i want   to convert temperature from celsius2fahrenheit or fahrenheit to celsius. after conforming, it will asked for value according to user's previous choice. then it will print result . 
 
