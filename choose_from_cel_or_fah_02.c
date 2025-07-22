@@ -27,7 +27,7 @@ int main() {
     char again;
 
     do {
-        printf("\nTemperature Converter\n");
+        printf("\nWelcome to Temperature Converter\n");
         printf("---------------------\n");
         printf("Choose conversion option:\n");
         printf("1. Celsius to Fahrenheit\n");
