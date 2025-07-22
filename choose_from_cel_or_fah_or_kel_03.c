@@ -6,7 +6,7 @@ kelvin to celcius , kelvin to fahrenheit .
 after the choice it will asked for selected value. 
 after that it will show the result. 
 
-using do looping , validation  , labels and scientific format here. 
+using do loop , validation  , labels and scientific format here. 
 if input is invalid ask for value again until the expected valid range is not input. 
 adding conversion history to choose_from_c_or_f_or_k_03.c 
 do, switch, case, if ... else, break, while 
@@ -14,7 +14,9 @@ snprintf, default,
 
 we will add extra feature like: Include timestamps (advanced)? 
 
+parent file:
 choose_from_c_or_f_or_k.c 
+
 choose_from_c_or_f_or_k_03.c
 choose_from_cel_or_fah_or_kel_03.c
 
