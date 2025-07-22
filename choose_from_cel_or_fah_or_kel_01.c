@@ -21,7 +21,7 @@ int main() {
     int choice;
     float temp, converted;
 
-    printf("Temperature Conversion Program\n");
+    printf("Welcome to Temperature Conversion Program\n");
     printf("--------------------------------\n");
     printf("Choose a conversion option:\n");
     printf("1. Celsius to Fahrenheit\n");
